@@ -31,4 +31,13 @@ program PepitaGame {
 	  
 //	START
 	game.start()
+	// TODO gi, el programa no corre, puede ser? a vos te andaba? lo pudiste correr?
+	// tira un error, a vos te pasa lo mismo?
+	// cuando es así no dudes en preguntarnos!!! nosotros vamos a tratar de ayuder siempre
+	// podes mandarnos mails personales si preferis (en lugar de mandar a la lista)
+	// nosotros siempre vamos a tratar de ayudarte :)
+	// el programa, con algunos arreglos lo hice andar pero no cumple con las consignas
+	// hay que arreglar bastantes cosas, te dejo algunos comentarios para que te guies
+	// pero sería bueno si te animas a ir arreglandolos vos e ir preguntando para asegurarte
+	// que estás razonando bien el problema
 }

@@ -1,5 +1,6 @@
 import ciudades.*
 
+// TODO arreglar todo roque
 object roque{
 	 
 	 var property posicion = game.at(4,8)
